@@ -1,2 +1,2 @@
 # MachineLearning
-All my Jupiter Notebooks
+All my Jupyter Notebooks

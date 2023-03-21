@@ -1,2 +1,3 @@
 # MachineLearning
-All my Jupyter Notebooks
+
+Mon cours et mes jupyter notebook d'entrainement
